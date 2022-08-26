@@ -59,7 +59,7 @@ public class TV {
         return canal;
     }
     
-    public void setNumTV(int numTV){
+    public static void setNumTV(int numTV){
         TV.numTV = numTV;
     }
     
